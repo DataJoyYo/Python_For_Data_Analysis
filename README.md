@@ -1,2 +1,2 @@
 # Python_For_Data_Analysis
-the code of book python for data anaysis
+the code of O'REILLY book Python for Data Anaysis
